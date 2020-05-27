@@ -1,8 +1,8 @@
 # Source Library
 
-This repository is a more organized version of my main [factsheet](https://docs.google.com/document/d/1UhneOJvvO9vzHIUWfgKWJCCFi0LDNj_3p6LGBkIo6mU/edit?usp=sharing), which is a compliation of various articles, stats, and thinkpieces on a variety of issues.
+This repository is a more organized version of my main [factsheet](https://docs.google.com/document/d/1UhneOJvvO9vzHIUWfgKWJCCFi0LDNj_3p6LGBkIo6mU/edit?usp=sharing), which outlines academic and scientific literature opposed to any and all forms of reactionary rhetoric, along with logical and empirically founded argumentation and a few helpful thinkpieces. You can easily navigate to any topic using the links below.
 
-You can navigate it by viewing the repository itelf or following any of the links below.
+Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 
 ---
 ## Navigation
@@ -149,7 +149,6 @@ You can navigate it by viewing the repository itelf or following any of the link
 *Admin*
 * **Discord:** NB419#6966
 * **Reddit:** u/NB419
-* **Server Permalink:** https://discord.gg/UQhGKNm
 
 ---
 **Apa**
