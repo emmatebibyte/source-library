@@ -16,7 +16,7 @@
     *   Endorsed by the **Human Rights Campaign**, **American Academy of Pediatrics** & the **American College of Osteopathic Pediatricians** which affirms the validity of **transgender youth**, encourages **appropriate care and respect** for their transness and provides resources on how to do so.
     *   Outlines TYPES OF TRANSITION: hormone blockers are the **ONLY** treatment used on adolescents and are **COMPLETELY reversible**.
 
-![Puberty Blockers](https://github.com/NB419/source-library/blob/master/images/puberty_blockers.png)
+![Puberty Blockers](https://raw.githubusercontent.com/NB419/source-library/master/images/puberty_blockers.png)
 
 
 ### Myths
