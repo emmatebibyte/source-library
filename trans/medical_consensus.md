@@ -1,6 +1,6 @@
 ## Medical Consensus
 
-An incomplete list of the reputable scientific & social organizations which affirm the validity of transgender people (that transness is not an illness, that trans people are deserving of respect and equal rights, etc). This also serves as a list of the institutions which recognize the difference between sex and gender.
+#### An incomplete list of the reputable scientific & social organizations which affirm the validity of transgender people (that transness is not an illness, that trans people are deserving of respect and equal rights, etc). This also serves as a list of the institutions which recognize the difference between sex and gender.
 
 
 
@@ -14,7 +14,7 @@ An incomplete list of the reputable scientific & social organizations which affi
 *   United Nations
 *   United Kingdom’s National Health Service
 
-The following organizations have also made public statements expressing support for transgender people, the details and citations of which are compiled by [Transcsend Legal](https://transcendlegal.org/medical-organization-statements)
+#### The following organizations have also made public statements expressing support for transgender people, the details and citations of which are compiled by [Transcsend Legal](https://transcendlegal.org/medical-organization-statements)
 
 
 
@@ -33,7 +33,7 @@ The following organizations have also made public statements expressing support 
 *   National Commission on Correctional Health Care
 *   World Medical Association
 
-READ MORE:
+#### Read More:
 
 
 
