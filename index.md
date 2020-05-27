@@ -7,26 +7,26 @@ You can navigate it by viewing the repository itelf or following any of the link
 ---
 ## Navigation
 
----
 ### Social Issues
 #### Transgenderism
-* [Medical Consensus](
-* [Medical Transition](
-* [Social Transition](
-* [Bullying and Suicide](
-* [Family Support](
-* [Chosen Name Use](
-* [Puberty Blockers](
-* [Bathroom Bills](
-* [In the Media](
-* [Sterilization](
-* [Athletes](
-* [Gendered Behavior](
-* [They/Them Pronouns](
-* [Sexual Binary](
-* [Neurology](
-* [History of Gender](
-* [Additional Resources](
+* [Medical Consensus](https://nb419.github.io/source-library/trans/medical_consensus)
+* [Medical Transition](https://nb419.github.io/source-library/trans/medical_transition)
+* [Social Transition](https://nb419.github.io/source-library/trans/social_transition)
+* [Bullying and Suicide](https://nb419.github.io/source-library/trans/bullying_and_suicide)
+* [Family Support](https://nb419.github.io/source-library/trans/family_support)
+* [Chosen Name Use](https://nb419.github.io/source-library/trans/chosen_name_use)
+* [Puberty Blockers](https://nb419.github.io/source-library/trans/puberty_blockers)
+* [Bathroom Bills](https://nb419.github.io/source-library/trans/bathroom_bills)
+* [In the Media](https://nb419.github.io/source-library/trans/in_the_media)
+* [Sterilization](https://nb419.github.io/source-library/trans/sterilization)
+* [Detransitioners](https://nb419.github.io/source-library/trans/detransitioners)
+* [Athletes](https://nb419.github.io/source-library/trans/athletes)
+* [Gendered Behavior](https://nb419.github.io/source-library/trans/gendered_behavior)
+* [They/Them Pronouns](https://nb419.github.io/source-library/trans/they-them-pronouns)
+* [Sexual Binary](https://nb419.github.io/source-library/trans/sexual_binary)
+* [Neurology](https://nb419.github.io/source-library/trans/neurology)
+* [History of Gender](https://nb419.github.io/source-library/trans/history-of-gender)
+* [Additional Resources](https://nb419.github.io/source-library/trans/additional_resources)
 #### Gender, Sexual, and Romantic Minorities (GSRM)
 * [Harassment and Bullying](
 * [Conversion Therapy](
