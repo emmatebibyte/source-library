@@ -18,6 +18,7 @@
 
 ![Puberty Blockers](https://github.com/NB419/source-library/blob/master/images/puberty_blockers.png)
 
+
 ### Myths
 
 1. *“Blockers are harmful to bone density”*
