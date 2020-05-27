@@ -42,22 +42,24 @@
 
 There are multiple accounts by parents and older trans people who observe that they/their child knew that they were transgender from a young age – [Here is one such account](https://www.npr.org/templates/story/story.php?storyId=90273278) and [another article](https://www.thedailybeast.com/its-absurd-to-claim-that-trans-kids-are-being-rushed-into-transitioning) explaining how the assumption of trans kids being "rushed" into transition lacks nuance and overlooks critical factors in the process.
 
+
+
 5. *“It is not ethical to give puberty blockers to transgender children”*
 
-    “Aside from the fact that puberty blockers are, by their very nature, designed to block puberty, which only occurs in children on the cusp of adulthood, the question "Should we suspend the puberty of children with gender identity disorder?” was researched by [S Giordano in the Journal of Medical Ethics:](https://docdro.id/xKro7DS)
+“Aside from the fact that puberty blockers are, by their very nature, designed to block puberty, which only occurs in children on the cusp of adulthood, the question "Should we suspend the puberty of children with gender identity disorder?” was researched by [S Giordano in the Journal of Medical Ethics:](https://docdro.id/xKro7DS)
 
 
-    The conclusion was definitive; not prescribing puberty blockers for children with gender dysphoria was the much more unethical action to take:
+The conclusion was definitive; not prescribing puberty blockers for children with gender dysphoria was the much more unethical action to take:
 
 
-    _“If allowing puberty to progress appears likely to harm the child, puberty should be suspended. There is nothing unethical with interfering with spontaneous development, when **spontaneous development causes great harm to the child**. Indeed, it is unethical to let children suffer, when their suffering can be alleviated._
+> _“If allowing puberty to progress appears likely to harm the child, puberty should be suspended. There is nothing unethical with interfering with spontaneous development, when **spontaneous development causes great harm to the child**. Indeed, it is unethical to let children suffer, when their suffering can be alleviated._
 
 
-    _This is not responding with medicine to a problem that is social in nature. This is responding with medicine to a serious medical problem that causes enormous distress to the sufferers and makes them prefer unqualified help, street life and even death, to life with GID._
+> _This is not responding with medicine to a problem that is social in nature. This is responding with medicine to a serious medical problem that causes enormous distress to the sufferers and makes them prefer unqualified help, street life and even death, to life with GID._
 
 
-    _Whether or not the administration of puberty suppressant drugs is ethical depends not only on the net balance of clinical risks and benefits of treatment, but also on what is likely to happen to the child if s/he is not treated at the early stages of puberty. On balance, healthcare providers should include future physical risks (invasiveness of future surgery), and the psychological and relational/social risks (disgust for the self; social integration; risk of suicide)._
+> _Whether or not the administration of puberty suppressant drugs is ethical depends not only on the net balance of clinical risks and benefits of treatment, but also on what is likely to happen to the child if s/he is not treated at the early stages of puberty. On balance, healthcare providers should include future physical risks (invasiveness of future surgery), and the psychological and relational/social risks (disgust for the self; social integration; risk of suicide)._
 
 
-    _Healthcare providers are ethically (and to some extent legally) responsible for what is likely to happen to the applicant as a consequence of the fact that treatment has been withheld. Thus a decision on SP should involve a judgment on the overall quality of life and welfare of the child.”_
+> _Healthcare providers are ethically (and to some extent legally) responsible for what is likely to happen to the applicant as a consequence of the fact that treatment has been withheld. Thus a decision on SP should involve a judgment on the overall quality of life and welfare of the child.”_
 
