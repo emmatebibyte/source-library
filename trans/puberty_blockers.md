@@ -46,7 +46,7 @@ There are multiple accounts by parents and older trans people who observe that t
 
 5. *“It is not ethical to give puberty blockers to transgender children”*
 
-“Aside from the fact that puberty blockers are, by their very nature, designed to block puberty, which only occurs in children on the cusp of adulthood, the question "Should we suspend the puberty of children with gender identity disorder?” was researched by [S Giordano in the Journal of Medical Ethics:](https://docdro.id/xKro7DS)
+Aside from the fact that puberty blockers are, by their very nature, designed to block puberty, which only occurs in children on the cusp of adulthood, the question "Should we suspend the puberty of children with gender identity disorder?” was researched by [S Giordano in the Journal of Medical Ethics:](https://docdro.id/xKro7DS)
 
 
 The conclusion was definitive; not prescribing puberty blockers for children with gender dysphoria was the much more unethical action to take:
