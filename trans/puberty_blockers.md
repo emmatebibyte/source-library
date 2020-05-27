@@ -17,3 +17,47 @@
     *   Outlines TYPES OF TRANSITION: hormone blockers are the **ONLY** treatment used on adolescents and are **COMPLETELY reversible**.
 
 ![Puberty Blockers](https://github.com/NB419/source-library/blob/master/images/puberty_blockers.png)
+
+### Myths
+
+1. *“Blockers are harmful to bone density”*
+
+[The Endocrine Society](https://www.eurekalert.org/pub_releases/2013-06/tes-mii061513.php) found that medical intervention in transgender adolescents appears to be **safe and effective** and that hormone treatment to halt puberty in adolescents with gender identity disorder **does not cause lasting harm** to their bones.
+
+
+
+2. *“Young people wouldn’t want to take puberty blockers if they knew the risks”*
+
+[Vrouenraets et al. 16](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987409/) found that the few negative effects of puberty blockers do not change children’s minds and most adolescents stated that the lack of long-term data did not and would not stop them from wanting puberty suppression. They said that being happy in life was more important for them than any possible negative long-term consequence of puberty suppression.
+
+
+
+3. *“Puberty blockers will give trans kids osteoporosis and make them sterile”*
+
+[Heger et al. 99](https://academic.oup.com/jcem/article/84/12/4583/2864749) found that long term puberty blocker treatment of precocious puberty in girls preserved genetic height potential and improved final height significantly combined with normal body proportions. No negative effect on bone mineral density and reproductive function was seen.
+
+
+
+4. *“Children are too young to know they are trans and are pushed to take blockers by parents/social media/peer pressure”*
+
+There are multiple accounts by parents and older trans people who observe that they/their child knew that they were transgender from a young age – [Here is one such account](https://www.npr.org/templates/story/story.php?storyId=90273278) and [another article](https://www.thedailybeast.com/its-absurd-to-claim-that-trans-kids-are-being-rushed-into-transitioning) explaining how the assumption of trans kids being "rushed" into transition lacks nuance and overlooks critical factors in the process.
+
+5. *“It is not ethical to give puberty blockers to transgender children”*
+
+    “Aside from the fact that puberty blockers are, by their very nature, designed to block puberty, which only occurs in children on the cusp of adulthood, the question "Should we suspend the puberty of children with gender identity disorder?” was researched by [S Giordano in the Journal of Medical Ethics:](https://docdro.id/xKro7DS)
+
+
+    The conclusion was definitive; not prescribing puberty blockers for children with gender dysphoria was the much more unethical action to take:
+
+
+    _“If allowing puberty to progress appears likely to harm the child, puberty should be suspended. There is nothing unethical with interfering with spontaneous development, when **spontaneous development causes great harm to the child**. Indeed, it is unethical to let children suffer, when their suffering can be alleviated._
+
+
+    _This is not responding with medicine to a problem that is social in nature. This is responding with medicine to a serious medical problem that causes enormous distress to the sufferers and makes them prefer unqualified help, street life and even death, to life with GID._
+
+
+    _Whether or not the administration of puberty suppressant drugs is ethical depends not only on the net balance of clinical risks and benefits of treatment, but also on what is likely to happen to the child if s/he is not treated at the early stages of puberty. On balance, healthcare providers should include future physical risks (invasiveness of future surgery), and the psychological and relational/social risks (disgust for the self; social integration; risk of suicide)._
+
+
+    _Healthcare providers are ethically (and to some extent legally) responsible for what is likely to happen to the applicant as a consequence of the fact that treatment has been withheld. Thus a decision on SP should involve a judgment on the overall quality of life and welfare of the child.”_
+
