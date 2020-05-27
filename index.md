@@ -150,6 +150,7 @@ You can navigate it by viewing the repository itelf or following any of the link
 * **Discord:** NB419#6966
 * **Reddit:** u/NB419
 * **Server Permalink:** https://discord.gg/UQhGKNm
+
 ---
 **Apa**
 
@@ -163,6 +164,7 @@ You can navigate it by viewing the repository itelf or following any of the link
 
 *Trans Factsheet Contributor*
 * **Twitter:** @PearloLesbo
+
 ---
 And special thanks for the extensive viewer input I've received!
 
