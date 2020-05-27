@@ -6,7 +6,7 @@
 
 *   [Journal of Adolescent Health: Connolly et al. 16](https://www.sciencedirect.com/science/article/abs/pii/S1054139X1630146X)
     *   Analyzes consensus on the effectiveness of **social transition**
-    * > Gender-affirming medical therapy and supported social transition in childhood have been shown to correlate with **improved psychological functioning** for gender-variant children and adolescents.
+    * *"Gender-affirming medical therapy and supported social transition in childhood have been shown to correlate with **improved psychological functioning** for gender-variant children and adolescents."*
 *   [American Academy of Pediatrics: Olson et al. 16](https://pediatrics.aappublications.org/content/137/3/e20153223) 
     *   Socially transitioned transgender children who are supported in their gender identity have:
         *   **Normative** levels of **depression**
