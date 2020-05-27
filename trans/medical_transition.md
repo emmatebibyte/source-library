@@ -1,6 +1,6 @@
 ## Medical Transition
 
-Medical transition (including sex reassignment surgery) decreases dysphoria, suicide attempts, and improves depression and anxiety.
+#### Medical transition (including sex reassignment surgery) decreases dysphoria, suicide attempts, and improves depression and anxiety.
 
 
 
@@ -22,7 +22,7 @@ Medical transition (including sex reassignment surgery) decreases dysphoria, sui
     *   **Unambiguously positive results** - results indicate puberty suppression, support of medical professionals & SRS have markedly **beneficial outcomes** to trans individuals’ mental health and productivity.
     *   These indicators were “similar to or better than same-age young adults from the general population”
 *   [The Endocrine Society 15](https://www.eurekalert.org/pub_releases/2015-03/tes-sdc030615.php)
-    * > A new study has confirmed that **transgender youth often have mental health problems** and that their depression and anxiety **improve greatly with recognition** **and treatment of gender dysphoria**
+    * *"A new study has confirmed that **transgender youth often have mental health problems** and that their depression and anxiety **improve greatly with recognition** **and treatment of gender dysphoria**"*
 *   [Nobili 18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6223813/)
     *   Longitudinal meta-analysis which indicates **transgender people** have a **lower quality of life** than the general population.
     *   However, that quality of life **raises dramatically** with ‘**Gender Affirming Treatment**’, the nature of which is detailed extensively in-text.
