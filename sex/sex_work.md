@@ -12,6 +12,7 @@
         *   **limited risk reduction** opportunities.
         *   **discouraged** sex workers from obtaining and carrying methods of safe sex
         *   **exacerbated existing inequalities** experienced by transgender, migrant, and drug-using sex workers.
- > *“Those of us who work on the street are running from the police, pushed into more isolated areas because clients are **fearful of arrest**”*
+
+> *“Those of us who work on the street are running from the police, pushed into more isolated areas because clients are **fearful of arrest**”*
  
  ~ Niki Adams of the English Collective of Prostitutes
