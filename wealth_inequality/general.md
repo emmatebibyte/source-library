@@ -22,7 +22,7 @@
 
 *   [Inequality.org](https://inequality.org/facts/income-inequality/)
 
-<img src="https://github.com/NB419/source-library/blob/master/images/inequality%201.png" height="50%" width="50%">
-<img src="https://github.com/NB419/source-library/blob/master/images/inequality%202.png" height="50%" width="50%">
-<img src="https://github.com/NB419/source-library/blob/master/images/inequality%203.png" height="50%" width="50%">
-<img src="https://github.com/NB419/source-library/blob/master/images/inequality%204.png" height="50%" width="50%">
+<img src="https://github.com/NB419/source-library/blob/master/images/inequality 1.png" height="50%" width="50%">
+<img src="https://github.com/NB419/source-library/blob/master/images/inequality 2.png" height="50%" width="50%">
+<img src="https://github.com/NB419/source-library/blob/master/images/inequality 3.png" height="50%" width="50%">
+<img src="https://github.com/NB419/source-library/blob/master/images/inequality 4.png" height="50%" width="50%">
