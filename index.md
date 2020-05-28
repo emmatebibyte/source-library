@@ -36,22 +36,22 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 * [Impact of Marriage Equality](https://nb419.github.io/source-library/GSRM/marriage_equality)
 * [Demographic Reference](https://nb419.github.io/source-library/GSRM/demographics)
 #### Terrorism and Extremism
-* [Murder/Attacks](
-* [Hate Crime](
+* [Murder/Attacks](https://nb419.github.io/source-library/terrorism_and_extremism/murder_and_attacks)
+* [Hate Crime](https://nb419.github.io/source-library/terrorism_and_extremism/hate_crime)
 #### Democracy
-* [In the U.S.](
-* [Abroad](
+* [In the U.S.](https://nb419.github.io/source-library/democracy/united_states)
+* [Abroad](https://nb419.github.io/source-library/democracy/abroad)
 #### Immigration
-* [Economic Growth](
-* [Crime](
-* [Jobs](
-* [Taxes and Social Security](
-* [Public Benefits](
-* [Deportation](
-* [Diversity and Social Cohesion](
+* [Crime](https://nb419.github.io/source-library/immigration/crime)
+* [Jobs](https://nb419.github.io/source-library/immigration/jobs)
+* [Taxes and Social Security](https://nb419.github.io/source-library/immigration/taxes_and_social_security)
+* [Public Benefits](https://nb419.github.io/source-library/immigration/public_benefits)
+* [Economic Growth](https://nb419.github.io/source-library/immigration/economic_growth)
+* [Deportation](https://nb419.github.io/source-library/immigration/deportation)
+* [Diversity and Social Cohesion](https://nb419.github.io/source-library/immigration/diversity_and_social_cohesion)
 #### Police
-* [Casualties](
-* [Policing Efficacy](
+* [Casualties](https://nb419.github.io/source-library/police/casualties)
+* [Policing Efficacy](https://nb419.github.io/source-library/police/policing_efficacy)
 #### Drugs
 * [The Drug War](
 * [Decriminalization](
