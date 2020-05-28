@@ -203,4 +203,4 @@ And special thanks for the extensive viewer input I've received!
 
 [Socialism in the 21st Century:](https://docs.google.com/document/d/18LdrYaUtaBsi_sTERnBV2Xj7szwKUAdO8serQAUCS5A/) A short compilation of resources which could be useful
 
-[Ultimate #1 State Funded Socialism Research Document by David Einhorn](https://docs.google.com/document/d/1uK_5_iXDga_KXZjTvSOBdOZZnGmMhLKadLtojdLWBkc/edit): A fairly extensive source dump pretty useful so give it a look
+[Ultimate #1 State Funded Socialism Research Document by David Einhorn](https://docs.google.com/document/d/1uK_5_iXDga_KXZjTvSOBdOZZnGmMhLKadLtojdLWBkc/edit): A fairly extensive source dump; pretty useful so give it a look
