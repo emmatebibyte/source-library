@@ -92,17 +92,17 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 ---
 ### Economic Issues
 #### Wealth Inequality
-* [General](
-* [Wages/Minimum Wage](
-* [Economic Mobility](
-* [Investment](
-* [Workplace Engagement](
-* [Executive Pay](
-* [Unions](
-* [Generational Wealth Gap](
+* [General](https://nb419.github.io/source-library/wealth_inequality/general)
+* [Wages](https://nb419.github.io/source-library/wealth_inequality/wages)
+* [Growth](https://nb419.github.io/source-library/wealth_inequality/growth)
+* [Investment](https://nb419.github.io/source-library/wealth_inequality/investment)
+* [Workplace Engagement](https://nb419.github.io/source-library/wealth_inequality/workplace_engagement)
+* [Executive Pay](https://nb419.github.io/source-library/wealth_inequality/executive_pay)
+* [Unions](https://nb419.github.io/source-library/wealth_inequality/unions)
+* [Generational Wealth Gap](https://nb419.github.io/source-library/wealth_inequality/generational_wealth_gap)
 
 #### Innovation
- * [R&D](
+ * [General](https://nb419.github.io/source-library/innovation/general)
  
 #### Worker Ownership
 * [Cooperatives](
@@ -112,6 +112,10 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 * [Current Heathcare Problems](
 * [Benefits](
 * [Cost](
+
+#### Minimum Wage
+* [Minimum Wage vs Inflation](
+* [15$ Minimum Wage](
 
 ---
 ### Environmental Issues
