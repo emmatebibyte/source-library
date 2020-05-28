@@ -1,4 +1,4 @@
-## Harassment and Bullying
+## Harassment and Violence
 
 #### LGBT People experience disproportionate homelessness, hostility of family (negative statements. shaming), harassment at school, and physical and sexual abuse
 
