@@ -22,7 +22,7 @@
     *   **58%** of LGBT youth have felt unsafe at school due to their sexual orientation; **43%** have felt unsafe because of their gender identity
     *   **27%** of LGBT students have been physically harassed at school because of their sexual orientation; **13%** have been physically harassed because of their gender identity
 *   [National Coalition Against Domestic Violence 18](https://ncadv.org/blog/posts/domestic-violence-and-the-lgbtq-community)
-    *   Queer folks experience a **disproportionate amount **of ** domestic and sexual violence**
+    *   Queer folks experience a **disproportionate amount** of **domestic and sexual violence**
         *  This includes increased amounts of **rape, physical violence**, and/or **stalking** by an intimate partner at some point in their lifetime
             *   43.8% of lesbian women,  61.1% of bisexual women, 26% of gay men and 37.3% of bisexual men
             *   35% of heterosexual women /  29% of heterosexual men.
