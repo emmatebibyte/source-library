@@ -28,13 +28,13 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 * [History of Gender](https://nb419.github.io/source-library/trans/history-of-gender)
 * [Additional Resources](https://nb419.github.io/source-library/trans/additional_resources)
 #### Gender, Sexual, and Romantic Minorities (GSRM)
-* [Harassment and Bullying](
-* [Conversion Therapy](
-* [Family Support](
-* [Legal Protection](
-* [As Parents](
-* [Impact of Marriage Equality](
-* [Demographic Reference](
+* [Harassment and Violence](https://nb419.github.io/source-library/GSRM/harassment_and_violence)
+* [Conversion Therapy](https://nb419.github.io/source-library/GSRM/conversion_therapy)
+* [Family Support](https://nb419.github.io/source-library/GSRM/family_support)
+* [Legal Protection](https://nb419.github.io/source-library/GSRM/legal_protection)
+* [Parenting](https://nb419.github.io/source-library/GSRM/parenting)
+* [Impact of Marriage Equality](https://nb419.github.io/source-library/GSRM/marriage_equality)
+* [Demographic Reference](https://nb419.github.io/source-library/GSRM/demographics)
 #### Terrorism and Extremism
 * [Murder/Attacks](
 * [Hate Crime](
