@@ -8,6 +8,7 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 ## Navigation
 
 ### Social Issues
+
 #### Transgenderism
 * [Medical Consensus](https://nb419.github.io/source-library/trans/medical_consensus)
 * [Medical Transition](https://nb419.github.io/source-library/trans/medical_transition)
@@ -27,6 +28,7 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 * [Neurology](https://nb419.github.io/source-library/trans/neurology)
 * [History of Gender](https://nb419.github.io/source-library/trans/history-of-gender)
 * [Additional Resources](https://nb419.github.io/source-library/trans/additional_resources)
+
 #### Gender, Sexual, and Romantic Minorities (GSRM)
 * [Harassment and Violence](https://nb419.github.io/source-library/GSRM/harassment_and_violence)
 * [Conversion Therapy](https://nb419.github.io/source-library/GSRM/conversion_therapy)
@@ -35,12 +37,15 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 * [Parenting](https://nb419.github.io/source-library/GSRM/parenting)
 * [Impact of Marriage Equality](https://nb419.github.io/source-library/GSRM/marriage_equality)
 * [Demographic Reference](https://nb419.github.io/source-library/GSRM/demographics)
+
 #### Terrorism and Extremism
 * [Murder/Attacks](https://nb419.github.io/source-library/terrorism_and_extremism/murder_and_attacks)
 * [Hate Crime](https://nb419.github.io/source-library/terrorism_and_extremism/hate_crime)
+
 #### Democracy
 * [In the U.S.](https://nb419.github.io/source-library/democracy/united_states)
 * [Abroad](https://nb419.github.io/source-library/democracy/abroad)
+
 #### Immigration
 * [Crime](https://nb419.github.io/source-library/immigration/crime)
 * [Jobs](https://nb419.github.io/source-library/immigration/jobs)
@@ -49,34 +54,43 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 * [Economic Growth](https://nb419.github.io/source-library/immigration/economic_growth)
 * [Deportation](https://nb419.github.io/source-library/immigration/deportation)
 * [Diversity and Social Cohesion](https://nb419.github.io/source-library/immigration/diversity_and_social_cohesion)
+
 #### Police
 * [Casualties](https://nb419.github.io/source-library/police/casualties)
 * [Policing Efficacy](https://nb419.github.io/source-library/police/policing_efficacy)
+
 #### Drugs
 * [The Drug War](
 * [Decriminalization](
 * [Treatment](
+
 #### Prisons and Crime
 * [Rehabilitation](
+
 #### Guns
 * [Gun Control](
 * [Just Use](
 * [Video Games](
+
 #### Sex
 * [Sex Work](
 * [Casual Sex](
+
 #### Race
 * [Genetics](
 * [Structural Racism/CJS](
 * [Bias in Policing](
 * [Interpersonal Racism](
+
 #### Imperialism
 * [U.S. Interventionism](
 * [Arms Deals](
 * [Anti-American Terrorism](
+
 #### Social Media
 * [Censorship](
 * [Misinformation](
+
 #### JQ
 * [Holocaust Denial](
 
@@ -91,11 +105,14 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 * [Executive Pay](
 * [Unions](
 * [Generational Wealth Gap](
+
 #### Innovation
  * [R&D](
+ 
 #### Worker Ownership
 * [Cooperatives](
 * [Ownership Plans/ESOPs](
+
 #### Medicaire for All
 * [Current Heathcare Problems](
 * [Benefits](
@@ -103,12 +120,15 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 
 ---
 ### Environmental Issues
+
 #### Fossil Fuels
 * [Land and Air Damage](
 * [Subsidies](
+
 #### Renewable Energy
 * [Solar and Wind](
 * [Nuclear](
+
 #### Climate Change
 * [Consensus](
 * [Rising Temperatures](
@@ -121,10 +141,12 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 
 ---
 ### Trump
+
 #### Foreign
 * [Foreign Policy](
 * [Trade](
 * [Immigration](
+
 #### Domestic
 * [Corruption](
 * [Healthcare](
@@ -139,7 +161,7 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 
 ---
 ### Debunking
-* [Bad Studies](
+* [Bad Studies](https://nb419.github.io/source-library/debunking/bad_studies)
 
 ---
 ## Contributors
