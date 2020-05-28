@@ -60,39 +60,34 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 * [Policing Efficacy](https://nb419.github.io/source-library/police/policing_efficacy)
 
 #### Drugs
-* [The Drug War](
-* [Decriminalization](
-* [Treatment](
+* [The Drug War](https://nb419.github.io/source-library/drugs/drug_war)
+* [Decriminalization](https://nb419.github.io/source-library/drugs/decriminalization)
+* [Treatment](https://nb419.github.io/source-library/drugs/treatment/)
 
 #### Prisons and Crime
-* [Rehabilitation](
+* [Rehabilitation](https://nb419.github.io/source-library/prisons_and_crime/rehabilitation)
 
 #### Guns
-* [Gun Control](
-* [Just Use](
-* [Video Games](
+* [Video Games](https://nb419.github.io/source-library/guns/video_games)
 
 #### Sex
-* [Sex Work](
-* [Casual Sex](
+* [Sex Work](https://nb419.github.io/source-library/sex/sex_work)
+* [Casual Sex](https://nb419.github.io/source-library/sex/casual_sex)
 
 #### Race
-* [Genetics](
-* [Structural Racism/CJS](
-* [Bias in Policing](
-* [Interpersonal Racism](
+* [Genetics](https://nb419.github.io/source-library/race/genetics)
+* [Structural Racism/CJS](https://nb419.github.io/source-library/race/cjs_discrimination)
+* [Bias in Policing](https://nb419.github.io/source-library/race/bias_in_policing)
+* [Interpersonal Racism](https://nb419.github.io/source-library/race/interpersonal_racism)
 
 #### Imperialism
-* [U.S. Interventionism](
-* [Arms Deals](
-* [Anti-American Terrorism](
+* [U.S. Interventionism](https://nb419.github.io/source-library/imperialism/us_interventionism)
+* [Arms Deals](https://nb419.github.io/source-library/imperialism/arms_deals)
+* [Anti-American Terrorism](https://nb419.github.io/source-library/imperialism/anti_american_terrorism)
 
 #### Social Media
-* [Censorship](
-* [Misinformation](
-
-#### JQ
-* [Holocaust Denial](
+* [Censorship](https://nb419.github.io/source-library/social_media/censorship)
+* [Misinformation](https://nb419.github.io/source-library/social_media/misinformation)
 
 ---
 ### Economic Issues
@@ -162,6 +157,7 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 ---
 ### Debunking
 * [Bad Studies](https://nb419.github.io/source-library/debunking/bad_studies)
+* [Holocaust Denial](https://nb419.github.io/source-library/debunking/holocaust_denial)
 
 ---
 ## Contributors
