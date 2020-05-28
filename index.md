@@ -10,7 +10,7 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 ### Social Issues
 
 #### Transgenderism
-* [Medical Consensus](/trans/medical_consensus)
+* [Medical Consensus](https://nb419.github.io/source-library/trans/medical_consensus)
 * [Medical Transition](https://nb419.github.io/source-library/trans/medical_transition)
 * [Social Transition](https://nb419.github.io/source-library/trans/social_transition)
 * [Bullying and Suicide](https://nb419.github.io/source-library/trans/bullying_and_suicide)
