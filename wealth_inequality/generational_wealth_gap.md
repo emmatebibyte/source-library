@@ -9,7 +9,7 @@
         *   Are failing to out-earn their parents
         *   Are burdened with record **student debt**
 
-<img src="https://github.com/NB419/source-library/blob/master/images/generational.png" height="60%" width="60%">
+<img src="https://github.com/NB419/source-library/blob/master/images/generational.png?raw=true" height="60%" width="60%">
 <img src="https://github.com/NB419/source-library/blob/master/images/generational%202.png?raw=true" height="60%" width="60%">
 <img src="https://github.com/NB419/source-library/blob/master/images/generational%203.png?raw=true" height="60%" width="60%">
 <img src="https://github.com/NB419/source-library/blob/master/images/generational%204.png?raw=true" height="60%" width="60%">
