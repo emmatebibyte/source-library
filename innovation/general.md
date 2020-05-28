@@ -8,4 +8,6 @@
     *   **Women and minorities are exposed less to relevant environmental factors**, explaining why they don’t innovate as much as white men
 *   [European Innovation Scoreboard 19](https://ec.europa.eu/growth/industry/policy/innovation/scoreboards_en)
     *   In Europe, countries with functional safety nets (mainly in Scandinavia and Western Europe) perform better when it comes to innovation
+    
+    
 <img src="https://github.com/NB419/source-library/blob/master/images/r&d.jpg?raw=true" height="35%" width="35%">
