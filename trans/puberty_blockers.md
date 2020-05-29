@@ -21,31 +21,32 @@
 
 ### Myths
 
-1. *“Blockers are harmful to bone density”*
+
+* *“Blockers are harmful to bone density”*
 
 [The Endocrine Society](https://www.eurekalert.org/pub_releases/2013-06/tes-mii061513.php) found that medical intervention in transgender adolescents appears to be **safe and effective** and that hormone treatment to halt puberty in adolescents with gender identity disorder **does not cause lasting harm** to their bones.
 
 
 
-2. *“Young people wouldn’t want to take puberty blockers if they knew the risks”*
+* *“Young people wouldn’t want to take puberty blockers if they knew the risks”*
 
 [Vrouenraets et al. 16](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987409/) found that the few negative effects of puberty blockers do not change children’s minds and most adolescents stated that the lack of long-term data did not and would not stop them from wanting puberty suppression. They said that being happy in life was more important for them than any possible negative long-term consequence of puberty suppression.
 
 
 
-3. *“Puberty blockers will give trans kids osteoporosis and make them sterile”*
+* *“Puberty blockers will give trans kids osteoporosis and make them sterile”*
 
 [Heger et al. 99](https://academic.oup.com/jcem/article/84/12/4583/2864749) found that long term puberty blocker treatment of precocious puberty in girls preserved genetic height potential and improved final height significantly combined with normal body proportions. No negative effect on bone mineral density and reproductive function was seen.
 
 
 
-4. *“Children are too young to know they are trans and are pushed to take blockers by parents/social media/peer pressure”*
+* *“Children are too young to know they are trans and are pushed to take blockers by parents/social media/peer pressure”*
 
 There are multiple accounts by parents and older trans people who observe that they/their child knew that they were transgender from a young age – [Here is one such account](https://www.npr.org/templates/story/story.php?storyId=90273278) and [another article](https://www.thedailybeast.com/its-absurd-to-claim-that-trans-kids-are-being-rushed-into-transitioning) explaining how the assumption of trans kids being "rushed" into transition lacks nuance and overlooks critical factors in the process.
 
 
 
-5. *“It is not ethical to give puberty blockers to transgender children”*
+* *“It is not ethical to give puberty blockers to transgender children”*
 
 Aside from the fact that puberty blockers are, by their very nature, designed to block puberty, which only occurs in children on the cusp of adulthood, the question "Should we suspend the puberty of children with gender identity disorder?” was researched by [S Giordano in the Journal of Medical Ethics:](https://docdro.id/xKro7DS)
 
