@@ -20,4 +20,6 @@
    * Americans are happier in states that spend more on public goods
    * *"Robust evidence [suggests] that citizens report living happier lives when their state spends more (relative to the size of a state's economy) on providing public goods"*
    * This includes libraries, parks and recreation, natural resources, highways (only regular, not toll), and police protection
-  
+* [Sahakian et al. 20](https://www.journalpublicspace.org/index.php/jps/article/view/1286) [(cited)](https://www.sciencedaily.com/releases/2020/05/200527105025.htm)
+   * Study of an international team of researchers in several Asian cities
+   * Parks play are essential in the wellbeing of individuals and cannot be replaced by other venues of social interaction, such as malls or shopping centers
