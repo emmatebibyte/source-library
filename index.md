@@ -157,7 +157,7 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 * [General](https://nb419.github.io/source-library/miscellaneous/general)
 * [Gen Z](https://nb419.github.io/source-library/miscellaneous/genz)
 * [Overpopulation](https://nb419.github.io/source-library/miscellaneous/overpopulation)
-* [Leisure](https://nb419.github.io/source-library/miscellaneous/leisure)
+* [Recreation](https://nb419.github.io/source-library/miscellaneous/recreation)
 
 ---
 ### Debunking
