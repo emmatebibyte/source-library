@@ -1,3 +1,5 @@
+## Cooperatives
+
 #### Co-ops are more productive, robust, resistant to price shocks, and increase worker pay and engagement (as opposed to a firm organized by a traditional employer-employee framework). Increased employee engagement in decision-making at all levels is consistently associated with better performance.
 
 *   [Doucouliagos 95](http://library.uniteddiversity.coop/Cooperatives/Worker_Participation_and_Productivity-Meta_Analysis.pdf)
