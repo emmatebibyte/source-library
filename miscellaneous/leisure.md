@@ -15,5 +15,5 @@
    * Nearby nature that people actually experience is beneficial to mental health
    * *"Of five neighborhood nature characteristics tested, vegetation cover and afternoon bird abundances were positively associated with a lower prevalence of depression, anxiety, and stress."*
    * From cited: *"The positive association between birds, shrubs and trees and better mental health applied, even after controlling for variation in neighbourhood deprivation, household income, age and a wide range of other socio-demographic factors."*
-   * This study also references several others which come to similar conclusions about the effecet of various environmental factors on wellbeing.
+   * This study also references several others which come to similar conclusions about the effects of various environmental factors on wellbeing.
    
