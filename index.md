@@ -105,58 +105,59 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
  * [General](https://nb419.github.io/source-library/innovation/general)
  
 #### Worker Ownership
-* [Cooperatives](
-* [Ownership Plans/ESOPs](
+* [Cooperatives](https://nb419.github.io/source-library/worker_ownership/cooperatives)
+* [Ownership Plans/ESOPs](https://nb419.github.io/source-library/worker_ownership/ESOPs)
+* [Additional Resources](https://nb419.github.io/source-library/worker_ownership/additional_resources)
 
-#### Medicaire for All
-* [Current Heathcare Problems](
-* [Benefits](
-* [Cost](
+#### Healthcare
+* [Heathcare in the U.S.](https://nb419.github.io/source-library/healthcare/in_the_us)
+* [Cost of M4A](https://nb419.github.io/source-library/healthcare/cost_of_m4a)
 
 #### Minimum Wage
-* [Minimum Wage vs Inflation](
-* [15$ Minimum Wage](
+* Minimum Wage vs Inflation (WIP)
+* 15$ Minimum Wage (WIP)
 
 ---
 ### Environmental Issues
 
 #### Fossil Fuels
-* [Land and Air Damage](
-* [Subsidies](
+* [Land and Air Damage](https://nb419.github.io/source-library/fossil_fuels/land_and_air_damage)
+* [Subsidies](https://nb419.github.io/source-library/fossil_fuels/subsidies)
 
 #### Renewable Energy
-* [Solar and Wind](
-* [Nuclear](
+* [Solar and Wind](https://nb419.github.io/source-library/renewable_energy/solar_and_wind)
+* [Nuclear](https://nb419.github.io/source-library/renewable_energy/nuclear_energy)
 
 #### Climate Change
-* [Consensus](
-* [Rising Temperatures](
-* [CO2 Emissions](
-* [Melting Ice](
-* [Sea Level Rise](
-* [Air Pollution](
-* [Denialism](
-* [Additional Resources](
+* [Consensus](https://nb419.github.io/source-library/climate_change/consensus)
+* [Rising Temperatures](https://nb419.github.io/source-library/climate_change/temperatures)
+* [Carbon Emissions](https://nb419.github.io/source-library/climate_change/carbon_emissions)
+* [Ice Loss](https://nb419.github.io/source-library/climate_change/ice_loss/)
+* [Sea Level Rise](https://nb419.github.io/source-library/climate_change/sea_level_rise)
+* [Air Pollution](https://nb419.github.io/source-library/climate_change/air_pollution)
+* [Denialism](https://nb419.github.io/source-library/climate_change/denialism)
 
 ---
 ### Trump
 
 #### Foreign
-* [Foreign Policy](
-* [Trade](
-* [Immigration](
+* [Foreign Policy](https://nb419.github.io/source-library/trump/foreign_policy)
+* [Trade](https://nb419.github.io/source-library/trump/trade)
+* Immigration (WIP)
 
 #### Domestic
-* [Corruption](
-* [Healthcare](
-* [Taxes](
-* [Criminal Justice](
-* [Civil Rights](
-* [Internet](
+* [Corruption](https://nb419.github.io/source-library/trump/corruption)
+* [Healthcare](https://nb419.github.io/source-library/trump/healthcare)
+* [Taxes](https://nb419.github.io/source-library/trump/taxes)
+* [Civil Rights](https://nb419.github.io/source-library/trump/civil_rights)
+* [Internet](https://nb419.github.io/source-library/trump/internet/)
 
 ---
 ### Miscellaneous
-* [General](
+* [General](https://nb419.github.io/source-library/miscellaneous/general)
+* [Gen Z](https://nb419.github.io/source-library/miscellaneous/genz)
+* [Overpopulation](https://nb419.github.io/source-library/miscellaneous/overpopulation)
+* [Leisure](https://nb419.github.io/source-library/miscellaneous/leisure)
 
 ---
 ### Debunking
