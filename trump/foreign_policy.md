@@ -1,4 +1,4 @@
-## Foreign Policy
+## Trump on Foreign Policy
 
 *   Since Trump took office, the rate of **drone strikes rose** by **432%** ([World Beyond War](https://worldbeyondwar.org/u-s-drone-strikes-gone-432-since-trump-took-office/))
     *   Trump revoked an Obama-era policy requiring US intelligence officials **report civilian drone strike deaths** outside of war zones. [(BBC 2019)](https://www.bbc.com/news/world-us-canada-47480207)
