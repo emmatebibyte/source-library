@@ -7,4 +7,4 @@
 * [Mummolo 18](https://www.pnas.org/content/115/37/9181)
    * Militerization of the police **does not** enchance safety of reduce crime
    * *"Militarized “special weapons and tactics” (SWAT) teams are more often deployed in communities of color, and—contrary to claims by police administrators—provide no detectable benefits in terms of officer safety or violent crime reduction, on average"*
-   * However, militarized police in the news *does* increase negative attitudes towards law enforcement, demonstrating that police militerization is ultimately counterproductive
+   * However, militarized police in the news *does* increase **negative attitudes towards law enforcement**, demonstrating that police militerization is ultimately counterproductive
