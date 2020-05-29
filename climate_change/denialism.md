@@ -1,4 +1,4 @@
-## Denialism
+## Climate Change Denialism
 
 *   [Petersen et al. 19](https://www.nature.com/articles/s41467-019-09959-4) 
     *   Study that extensively examines the permeation of climate contrarian influence throughout media
