@@ -56,14 +56,6 @@
    * Policing is far safer now than it was 50 years ago, despite claims of a "war on cops"
    * The study finds that there has been a **75% drop** in line-of-duty deaths
    * *"The number of line‐of‐duty deaths has declined dramatically over the last five decades. Policing is a much safer profession now than it was 50 years ago."*
-* [Bisschop et al. 17](https://www.aeaweb.org/articles?id=10.1257/pol.20150299) [(pdf)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20150299)
-   * Study of street prostitution in 25 Dutch cities between 1994-2011 shows that "safe prostitution zones" (tipplezones) decrease instances of sexual abuse and other forms of criminal activity.
-   * *"Opening a tippelzone decreases registered sexual abuse and rape by about 30-40 percent in the first two years.*"
-   * *"For cities which enforced licensing in tippelzones, we also find reductions in drug-related crime and long-term effects on sexual assaults."*
-* [Flavin 19](https://www.sciencedirect.com/science/article/abs/pii/S0049089X18302801?via%3Dihub) [(cited)](https://www.sciencedaily.com/releases/2019/01/190107075713.htm)
-   * Americans are happier in states that spend more on public goods
-   * *"Robust evidence [suggests] that citizens report living happier lives when their state spends more (relative to the size of a state's economy) on providing public goods"*
-   * This includes libraries, parks and recreation, natural resources, highways (only regular, not toll), and police protection
 * [Wirtz et al. 17](https://www.tandfonline.com/doi/full/10.1080/02650487.2017.1334996) [(cited)](https://news.illinois.edu/view/6367/522402)
    * Sex doesn't sell — the effect of sexual appeals on attitudes towards an ad or on purchase intention is negligible
    * While males evaluated ads with sexual appeals more positively than females, there was a negative effect on brand attitude when such appeals were used
