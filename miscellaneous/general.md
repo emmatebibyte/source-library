@@ -71,3 +71,8 @@
    * Lack of paid sick leave increases poverty
    * *"Not having access to paid sick leave increases the odds of being in poverty, being food insecure and having elevated medical costs"*
    * There is a *"relationship between paid sick leave benefits and being able to afford needed healthcare services and goods and being more vulnerable to economic hardship."*
+* [Hosein 19](https://www.sciencedirect.com/science/article/pii/S0747563218304862) [(cited)](https://www.surrey.ac.uk/news/geek-girl-gamers-are-more-likely-study-science-and-technology-degrees)
+   * Gamer girls are big brained
+   * From cited: *"13-14 year old girls classed as ‘heavy gamers’ – those playing over nine hours a week – were three times more likely to pursue a PSTEM degree compared to girls who were non-gamers"*
+   * Obviously, this was influenced by their socio-economic status
+   * Hosein notes that their results indicate that *"girls were self-socialising or self-determining their identity groups through gaming"*
