@@ -1,8 +1,11 @@
 ## Studies to Watch Out For
 
-*   [Dhejne C et al. 11](https://www.ncbi.nlm.nih.gov/pubmed/21364939)
-    *   **Commonly cited by transphobes** to indicate sexual reassignment surgery **HARMS trans people**, increases risk of suicide.
-    *   **BAD DATA**. Control group for post-transition trans individuals was CISGENDER people - **post-SRS trans participants weren’t compared to pre-SRS trans participants, they were compared to cis participants.** Methodology **DOES NOT PROVE** the intended point.
+*   [Dhejne et al. 11](https://www.ncbi.nlm.nih.gov/pubmed/21364939)
+    *   **Commonly cited by transphobes** to indicate sexual reassignment surgery **harms trans people** and increases risk of suicide.
+    *   This is **NOT** what the study says
+        *   A study proving that SRS harms trans people would compare the wellbeing of post-SRS trans people to pre-SRS trans people, but this one uses **CIS** people as a control group
+    *   The study merely demonstrates that trans people who have had SRS **still are a vulnerable population** compared to cis people, but NOT that their condition had been worsened by SRS.
+    *   The head author, Cecilia Dhejne, is actually very trans positive herself, and describes her intent in publishing this study in [this AMA](https://www.reddit.com/r/science/comments/6q3e8v/science_ama_series_im_cecilia_dhejne_a_fellow_of/dkuk2tr?utm_source=share&utm_medium=web2x). 
 *   [Littman 18](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202330)
     *   **Commonly cited by transphobes** to indicate transness spreads socially, that exposure to trans material might encourage youth to be trans. **“Rapid Onset Gender Dysphoria”** (ROGD).
     *   **BAD DATA**. This study polled **PARENTS, not the actual children**, and those polls were taken online, _and_ those sites were **biased by nature** - ‘_4thwavenow, transgendertrend, youthtranscriticalprofessionals_’.
