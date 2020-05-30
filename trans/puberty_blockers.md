@@ -18,6 +18,33 @@
 
 ![Puberty Blockers](https://raw.githubusercontent.com/NB419/source-library/master/images/puberty_blockers.png)
 
+*   [International Journal of Transgender Health 2020](https://doi.org/10.1080/26895269.2020.1747768)
+    *   **Key finding** is that that provision of puberty delaying medications to adolescents with gender dysphoria is not experimental, 
+    *   **Hormone blockers are not new**
+        *   _“Since the mid 1990s, puberty delaying medications have been prescribed to some adolescents (not prepubertal children) with severe and persistent gender dysphoria, in cases in which such distress was aggravated by pubertal development.”_
+        *   _“The Royal College of Psychiatrists, in 1998, **recommended delaying puberty** in young adolescents who experienced  strong and persistent ‘cross-sex  identification’ and distress around the physical body that intensifies with the onset of puberty.”_
+        *   _“Puberty blockers are not ‘novel' treatment. They were **recommended by prominent bodies of medical opinion** in the UK and internationally over two decades ago, and have thus been part of standard medical treatment for many years.”_
+        *   _“GnRHa has been used in the treatment of gender dysphoria** since the mid 1990s**, and their efficacy in delaying puberty in adolescents is documented by **numerous studies and scientific publications**” (21 scientific studies are then listed)_
+*   [Endocrine Society Guidelines: Hebree et al 17](https://academic.oup.com/jcem/article/102/11/3869/4157558)
+    *   A clinical practice guideline for puberty blockers
+    *   _“Puberty suppression typically **relives distress for trans adolescents** by halting progression of physical changes such as breast growth in trans males and voice deepening in trans females and is reversible in its effects”_
+    *   _“Puberty suppression medication **is reversible**”_
+*   [Giordano et al. 20](https://www.tandfonline.com/doi/full/10.1080/26895269.2020.1747768)
+    *   Article on why puberty blockers are prescribed and whether or not they are experimental.
+    *   _“Puberty delaying medications are currently provided off label to adolescents affected by gender dysphoria and this particular use cannot be investigated by a RCT. We have shown that this **does not mean they are experimental drugs** or are provided experimentally. Whether or not these (or even approved drugs) are ethically prescribed depends on **whether they are likely to serve the patient’s health interests** based on the **evidence available at the time of prescription**.”_
+*   [Turban et al. 20](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7073269/)
+    *   Study on the long-term outcomes of puberty suppression
+    *   **_“Pubertal suppression for transgender adolescents who want this treatment is associated with favorable mental health outcomes.”_**
+    *   _“Those who received treatment with pubertal suppression, when compared with those who wanted pubertal suppression but did not receive it, had **lower odds of lifetime suicidal ideation**”_
+    *   _“Growing evidence base suggesting that gender-affirming medical care for transgender youth is associated with **superior mental health outcomes** in adulthood.”_
+*   [Giordano 08](https://jme.bmj.com/content/34/8/580) ([non-paywall](https://scihub.wikicn.top/https://doi.org/10.1136/jme.2007.021097))
+    *   Paper focused strictly on the ethicality of puberty blockers
+    *   Argues that the general improved quality of life, including substantially reduced risk of suicide, outweighs the ethical considerations of disrupting puberty
+*   [Cohen-Kettenis 98](https://pubmed.ncbi.nlm.nih.gov/9879847/) ([non-paywall](https://scihub.wikicn.top/https://doi.org/10.1007/s007870050073))
+    *   Focuses on **one person’s case** in which puberty blockers were used at a young age to relieve pressure from them, give them more time to go through proper psychotherapy, and get a more reliable diagnosis of the situation
+    *   Demonstrates that **puberty blockers can be used to more to help more accurately diagnose gender dysphoria**
+    *   This should make puberty blockers an appealing option even to people who accept the science around being transgender but still believe that it’s mostly a trend
+    *   Note: this paper is based on an anecdote, so it’s not exactly hard evidence but it’s something
 
 ### Myths
 
