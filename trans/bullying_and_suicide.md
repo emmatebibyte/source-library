@@ -41,3 +41,5 @@
         *   Discrimination
         *   Violence 
         *   Rejection
+*   [[Video] Socialism Done Left:](https://youtu.be/4Ioc8pLo2uQ) a good video debunking the 40% suicide statistic
+    *   40% statistic comes from the [2015 U.S. Transgender Survey](https://transequality.org/sites/default/files/docs/usts/USTS-Full-Report-Dec17.pdf), which says that **40% of respondents have attempted suicide in their lifetime. Attempting suicide is not the same as having a successful suicide** though, which is why the 40% statistic as it is commonly used is misleading
