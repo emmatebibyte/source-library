@@ -161,7 +161,7 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 
 ---
 ### Debunking
-* [Studies to Watch Out For](https://nb419.github.io/source-library/debunking/studies_to_watch_our_for)
+* [Studies to Watch Out For](https://nb419.github.io/source-library/debunking/studies_to_watch_out_for)
 * [Holocaust Denial](https://nb419.github.io/source-library/debunking/holocaust_denial)
 
 ---
