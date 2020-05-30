@@ -20,3 +20,6 @@
     *   Multilateral **condemnation** of ‘conversion therapy’ from **essentially every medical institution in the United Kingdom**, with reasons provided.
 *   [United Nations](https://www.unfe.org/about/)
     *   Transphobia? Nah
+*   [Williams Institute 16](https://williamsinstitute.law.ucla.edu/wp-content/uploads/Trans-Adults-US-Aug-2016.pdf)
+    *   Estimates a transgender population of around 0.6%, or 1.4 million people, in the United States
+    *   This is double the amount estimated by a 2011 study (0.3%) which had limited data to work with
