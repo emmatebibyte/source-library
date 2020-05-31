@@ -20,7 +20,12 @@
 
 *   [Feldman et al. 18](https://ajph.aphapublications.org/doi/10.2105/AJPH.2018.304851)
     *   Police disproportionately target low-income and POC neighborhoods
-    *   _“Overall, police-related **death rates were highest **in neighborhoods with the greatest concentrations of **low-income** residents and** residents of color**”_
+    *   _“Overall, police-related **death rates were highest** in neighborhoods with the greatest concentrations of **low-income** residents and **residents of color**”_
 *   [Lancet Journal: Bor 18](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31130-9/fulltext)
     *   Instances of **police brutality harm mental health**
     *   _“Police killings of unarmed black Americans have adverse effects on mental health among black American adults in the general population.”_
+*   [Lecount 17](https://www.researchgate.net/publication/319660605_More_Black_than_Blue_Comparing_the_Racial_Attitudes_of_Police_to_Citizens) ([non-paywall](https://scihub.wikicn.top/10.1111/socf.12367))
+    *   Highlights the philosophical (social power and group power) and racial reasons why white police officers have a discriminatory bias against African-Americans
+    *   Data collected via nationally representative survey which focuses on a number of specific racial attitudes of police officers to gain a broader understanding of their racial views and biases
+    *   Finds that **officers believe blacks are more violent, lazy, and should not be given special treatment** compared to whites
+    *   Further highlights that those with less education adopt conservative views on race and the harmful impacts discrimination denial can have (i.e. shows how denial of racial discrimination can lead to the establishment of racial hierarchy)
