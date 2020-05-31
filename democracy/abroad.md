@@ -1,4 +1,4 @@
-## Abroad
+## Authoritarianism
 
 #### Despite common belief, authoritarian and autocratic states (ie. states classified as undemocratic systems) fare poorly on economic indicators
 
