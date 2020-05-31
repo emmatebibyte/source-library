@@ -44,7 +44,7 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 
 #### Democracy
 * [In the U.S.](https://nb419.github.io/source-library/democracy/united_states)
-* [Abroad](https://nb419.github.io/source-library/democracy/abroad)
+* [Authoritarianism](https://nb419.github.io/source-library/democracy/authoritarianism)
 
 #### Immigration
 * [Crime](https://nb419.github.io/source-library/immigration/crime)
