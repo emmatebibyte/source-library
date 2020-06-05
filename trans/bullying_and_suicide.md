@@ -41,5 +41,12 @@
         *   Discrimination
         *   Violence 
         *   Rejection
+*   [European Union LGBT Survey 13](https://fra.europa.eu/sites/default/files/eu-lgbt-survey-results-at-a-glance_en.pdf)
+    *   LGBT folks’ self-reported perceptions of discrimination
+    *   Regarding trans people, finds **high levels of perceived discrimination across the board**, including:
+        *   **46%** felt discriminated against or harassed within the past year for being trans
+        *   **29%** felt discriminated against when it came to looking for employment
+        *   **70%** hid being trans during schooling before becoming 18 years old
+        *   **55%** had an incident of violence within the past year in part or whole because of them being trans
 *   [[Video] Socialism Done Left:](https://youtu.be/4Ioc8pLo2uQ) a good video debunking the 40% suicide statistic
     *   40% statistic comes from the [2015 U.S. Transgender Survey](https://transequality.org/sites/default/files/docs/usts/USTS-Full-Report-Dec17.pdf), which says that **40% of respondents have attempted suicide in their lifetime. Attempting suicide is not the same as having a successful suicide** though, which is why the 40% statistic as it is commonly used is misleading
