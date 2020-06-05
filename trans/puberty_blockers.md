@@ -25,6 +25,11 @@
         *   _“The Royal College of Psychiatrists, in 1998, **recommended delaying puberty** in young adolescents who experienced  strong and persistent ‘cross-sex  identification’ and distress around the physical body that intensifies with the onset of puberty.”_
         *   _“Puberty blockers are not ‘novel' treatment. They were **recommended by prominent bodies of medical opinion** in the UK and internationally over two decades ago, and have thus been part of standard medical treatment for many years.”_
         *   _“GnRHa has been used in the treatment of gender dysphoria **since the mid 1990s**, and their efficacy in delaying puberty in adolescents is documented by **numerous studies and scientific publications**” (21 scientific studies are then listed)_
+*   [Karalexi et al. 20](https://doi.org/10.1016/j.psyneuen.2020.104721)
+    * Study on the cognitive side-effects of puberty blockers
+    *   _“Current evidence **does not support an adverse impact of gender-affirming hormone therapy on cognitive performance** in birth-assigned either male or female transgender individuals”_
+    *   _“An enhanced effect on visuospatial ability following post-pubertal hormone therapy was shown in assigned females”_
+    *   _“Pooling data from cross-sectional studies showed a higher performance in verbal working memory in treated assigned males”_
 *   [Endocrine Society Guidelines: Hebree et al 17](https://academic.oup.com/jcem/article/102/11/3869/4157558)
     *   A clinical practice guideline for puberty blockers
     *   _“Puberty suppression typically **relives distress for trans adolescents** by halting progression of physical changes such as breast growth in trans males and voice deepening in trans females and is reversible in its effects”_
