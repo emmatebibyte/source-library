@@ -62,7 +62,7 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 #### Drugs
 * [The Drug War](https://nb419.github.io/source-library/drugs/drug_war)
 * [Decriminalization](https://nb419.github.io/source-library/drugs/decriminalization)
-* [Treatment](https://nb419.github.io/source-library/drugs/treatment/)
+* [Treatment](https://nb419.github.io/source-library/drugs/treatment)
 
 #### Prisons and Crime
 * [Rehabilitation](https://nb419.github.io/source-library/prisons_and_crime/rehabilitation)
@@ -132,7 +132,7 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 * [Consensus](https://nb419.github.io/source-library/climate_change/consensus)
 * [Rising Temperatures](https://nb419.github.io/source-library/climate_change/temperatures)
 * [Carbon Emissions](https://nb419.github.io/source-library/climate_change/carbon_emissions)
-* [Ice Loss](https://nb419.github.io/source-library/climate_change/ice_loss/)
+* [Ice Loss](https://nb419.github.io/source-library/climate_change/ice_loss)
 * [Sea Level Rise](https://nb419.github.io/source-library/climate_change/sea_level_rise)
 * [Air Pollution](https://nb419.github.io/source-library/climate_change/air_pollution)
 * [Denialism](https://nb419.github.io/source-library/climate_change/denialism)
@@ -150,7 +150,7 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 * [Healthcare](https://nb419.github.io/source-library/trump/healthcare)
 * [Taxes](https://nb419.github.io/source-library/trump/taxes)
 * [Civil Rights](https://nb419.github.io/source-library/trump/civil_rights)
-* [Internet](https://nb419.github.io/source-library/trump/internet/)
+* [Internet](https://nb419.github.io/source-library/trump/internet)
 
 ---
 ### Miscellaneous
