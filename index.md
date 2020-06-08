@@ -169,14 +169,14 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 
 **NB419**
 
-*Admin*
+*Library Admin*
 * **Discord:** NB419#6966
 * **Reddit:** u/NB419
 
 ---
 **Apa**
 
-*Head Contributor*
+*Source Library Co-Author*
 * **Discord:** Apa#4210
 * **Reddit:** u/Apathetizer
 
@@ -184,7 +184,8 @@ Also be sure to [join my discord!](https://discord.gg/UQhGKNm)
 
 **Pearl**
 
-*Trans Factsheet Contributor*
+*Trans Factsheet Co-Author*
+* **Discord:** Pearl#6672
 * **Twitter:** @PearloLesbo
 
 ---
